@@ -1,29 +1,24 @@
-Water Me - Starter Code
+Lemonade app
 ==================================
-
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 6 of Android Basics in Kotlin
 
 Introduction
 ------------
 
-This is the starter code for the Water Me app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
+The Lemonade app is a simple Compose app that allows the user to make digital lemonade by tapping
+through a series of steps: select a lemon from the tree, squeeze the lemon, drink the glass of
+lemonade, and start again.
+
+The concepts covered in this app are:
+- Simple UI layout in Compose
+- Add clickable behavior to a composable
+- Use remember and mutableStateOf to keep track of relevant state in the app
 
 Pre-requisites
 --------------
 
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-- Complete Project 5: Forage
-- Complete Unit 6 of Android Basics in Kotlin
+- Knowledge of basic UI composables
+- Able to set a click listener on a Button composable
+- Able to store state in a simple Compose app with remember and mutableStateOf
 
 Getting Started
 ---------------
@@ -31,13 +26,3 @@ Getting Started
 1. Download the starter code
 2. Open the project in Android Studio
 3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
