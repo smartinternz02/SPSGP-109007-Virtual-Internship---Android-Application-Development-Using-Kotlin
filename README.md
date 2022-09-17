@@ -1,28 +1,32 @@
-Lemonade app
+Dogglers - Starter Code
 ==================================
+
+Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
 ------------
 
-The Lemonade app is a simple Compose app that allows the user to make digital lemonade by tapping
-through a series of steps: select a lemon from the tree, squeeze the lemon, drink the glass of
-lemonade, and start again.
-
-The concepts covered in this app are:
-- Simple UI layout in Compose
-- Add clickable behavior to a composable
-- Use remember and mutableStateOf to keep track of relevant state in the app
+This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
 Pre-requisites
 --------------
 
-- Knowledge of basic UI composables
-- Able to set a click listener on a Button composable
-- Able to store state in a simple Compose app with remember and mutableStateOf
+- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
 
 Getting Started
 ---------------
 
 1. Download the starter code
 2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
+
+Tips
+----
+
+- Use the provided tests to ensure your app is running as expected
+- DO NOT ALTER THE PROVIDED TESTS
+
+Output Screenshots
+------------------
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersMain.png" alt="Dogglers Main Landing View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersVertical.png" alt="Dogglers Vertical List View">
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersHorizontal.png" alt="Dogglers Horizontal View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersGrid.png" alt="Dogglers Grid View">
